@@ -5,6 +5,7 @@
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-<JavaScript>-000000?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-<TypeScript>-000000?style=for-the-badge&logo=TypeScript)
 ![MySQL](https://img.shields.io/badge/-<MySQL>-000000?style=for-the-badge&logo=MySQL)
 ![Postman](https://img.shields.io/badge/-<Postman>-000000?style=for-the-badge&logo=Postman)
 ![GitHub](https://img.shields.io/badge/-<GitHub>-000000?style=for-the-badge&logo=GitHub)
