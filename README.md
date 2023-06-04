@@ -1,7 +1,7 @@
 
 
 ### Manual QA Engineer with more then 2-year experience.
-### I am currently studying in the Automation testing on JavaScript course.
+### Successfully completed the Automation testing on JavaScript/Typescript course.
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-<JavaScript>-000000?style=for-the-badge&logo=JavaScript)
