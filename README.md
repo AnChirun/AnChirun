@@ -13,4 +13,4 @@
 ![Confluence](https://img.shields.io/badge/-<Confluence>-000000?style=for-the-badge&logo=Confluence)
 
 ### Follow Me
-[![LinkedIn](https://img.shields.io/badge/-<LinkedIn>-000000?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/anna-chirun/)
+[![LinkedIn](https://img.shields.io/badge/-<LinkedIn>-000000?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/an-chirun/)
