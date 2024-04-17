@@ -1,6 +1,6 @@
 
 
-#### Manual QA Engineer with more then 2-years experience.
+#### Manual QA Engineer.
 #### Successfully completed the Automation testing on JavaScript/Typescript course.
 
 ### Languages and Tools
